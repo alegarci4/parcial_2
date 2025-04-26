@@ -1,0 +1,339 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\Downloads\\parcial_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\ui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\ui\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\models\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\models\\bloque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\parcial_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\parcial_2.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\forminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\forminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\services\\jugadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\services\\jugadorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\utils\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\utils\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\formjugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\formjugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\formjugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\formjugadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\forminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\forminventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\forminventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\forminventario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\forminventario.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\forminventario.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\parcial_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\parcial_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\services\\inventarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\services\\bloqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\services\\bloqueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\models\\inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|c:\\users\\maria\\downloads\\parcial_2\\parcial_2\\formjugadores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9868BFB1-04A5-49CA-BD33-11D2AFE7E3C9}|parcial_2\\parcial_2.csproj|solutionrelative:parcial_2\\formjugadores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormInventario.resx",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormInventario.resx",
+              "RelativeDocumentMoniker": "parcial_2\\FormInventario.resx",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormInventario.resx",
+              "RelativeToolTip": "parcial_2\\FormInventario.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-04-23T05:22:26.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormInventario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormInventario.Designer.cs",
+              "RelativeDocumentMoniker": "parcial_2\\FormInventario.Designer.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormInventario.Designer.cs",
+              "RelativeToolTip": "parcial_2\\FormInventario.Designer.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAADwvzwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T05:20:22.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormInventario.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormInventario.cs",
+              "RelativeDocumentMoniker": "parcial_2\\FormInventario.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormInventario.cs",
+              "RelativeToolTip": "parcial_2\\FormInventario.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:51:46.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormInventario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormInventario.cs",
+              "RelativeDocumentMoniker": "parcial_2\\FormInventario.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormInventario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "parcial_2\\FormInventario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T04:43:45.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormMain.cs",
+              "RelativeDocumentMoniker": "parcial_2\\FormMain.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormMain.cs",
+              "RelativeToolTip": "parcial_2\\FormMain.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwGgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:55:49.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormJugadores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormJugadores.Designer.cs",
+              "RelativeDocumentMoniker": "parcial_2\\FormJugadores.Designer.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormJugadores.Designer.cs",
+              "RelativeToolTip": "parcial_2\\FormJugadores.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:49:36.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMain.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormMain.cs",
+              "RelativeDocumentMoniker": "parcial_2\\FormMain.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormMain.cs [Dise\u00F1o]",
+              "RelativeToolTip": "parcial_2\\FormMain.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T03:47:10.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormJugadores.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormJugadores.cs",
+              "RelativeDocumentMoniker": "parcial_2\\FormJugadores.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormJugadores.cs",
+              "RelativeToolTip": "parcial_2\\FormJugadores.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:47:56.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormJugadores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormJugadores.cs",
+              "RelativeDocumentMoniker": "parcial_2\\FormJugadores.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\FormJugadores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "parcial_2\\FormJugadores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T02:32:19.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "parcial_2",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\parcial_2.csproj",
+              "RelativeDocumentMoniker": "parcial_2\\parcial_2.csproj",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\parcial_2.csproj",
+              "RelativeToolTip": "parcial_2\\parcial_2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-23T01:24:05.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Program.cs",
+              "RelativeDocumentMoniker": "parcial_2\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Program.cs",
+              "RelativeToolTip": "parcial_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:25:04.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Utils\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "parcial_2\\Utils\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Utils\\DatabaseManager.cs",
+              "RelativeToolTip": "parcial_2\\Utils\\DatabaseManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:23:16.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\UI\\MenuManager.cs",
+              "RelativeDocumentMoniker": "parcial_2\\UI\\MenuManager.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\UI\\MenuManager.cs",
+              "RelativeToolTip": "parcial_2\\UI\\MenuManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:21:48.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JugadorService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Services\\JugadorService.cs",
+              "RelativeDocumentMoniker": "parcial_2\\Services\\JugadorService.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Services\\JugadorService.cs",
+              "RelativeToolTip": "parcial_2\\Services\\JugadorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:20:13.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InventarioService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Services\\InventarioService.cs",
+              "RelativeDocumentMoniker": "parcial_2\\Services\\InventarioService.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Services\\InventarioService.cs",
+              "RelativeToolTip": "parcial_2\\Services\\InventarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:19:20.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BloqueService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Services\\BloqueService.cs",
+              "RelativeDocumentMoniker": "parcial_2\\Services\\BloqueService.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Services\\BloqueService.cs",
+              "RelativeToolTip": "parcial_2\\Services\\BloqueService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:17:56.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "parcial_2.csproj",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\parcial_2.csproj",
+              "RelativeDocumentMoniker": "parcial_2\\parcial_2.csproj",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\parcial_2.csproj",
+              "RelativeToolTip": "parcial_2\\parcial_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T03:17:23.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Models\\Jugador.cs",
+              "RelativeDocumentMoniker": "parcial_2\\Models\\Jugador.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Models\\Jugador.cs",
+              "RelativeToolTip": "parcial_2\\Models\\Jugador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:16:52.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Models\\Inventario.cs",
+              "RelativeDocumentMoniker": "parcial_2\\Models\\Inventario.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Models\\Inventario.cs",
+              "RelativeToolTip": "parcial_2\\Models\\Inventario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:16:19.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bloque.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Models\\Bloque.cs",
+              "RelativeDocumentMoniker": "parcial_2\\Models\\Bloque.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\parcial_2\\parcial_2\\Models\\Bloque.cs",
+              "RelativeToolTip": "parcial_2\\Models\\Bloque.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T03:15:43.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
